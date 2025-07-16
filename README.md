@@ -21,10 +21,11 @@ The test suite covers core user workflows, including:
 - **Product browsing:** sorting by price and selecting items
 - **Cart operations:** adding specified quantities and then emptying the cart
 - **Combined scenario:** chaining login, purchase, cart cleanup, and logout in one flow
-  ![centic](centric.png)
+
 
 ## 🛠️ Technologies & Tools
 - **C#**
 - **Selenium WebDriver**
 - **Visual Studio**
 
+  ![centic](centric.png)
